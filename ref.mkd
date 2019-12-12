@@ -1,0 +1,18 @@
+# Driver para EXCOR
+
+## Abstract
+Criar um driver para propulsor cardiaco embarcado com redundancia e conectividade para possiveis ajustes de parametros e monitoramento externo do dispositivo.
+
+## [EXCOR Berlin hearth NA](www.berlinheart.com)
+
+## Driver
+
+### Sensores
+
+### Atuadores
+
+### Princípio de funcionamento
+
+### Controle
+
+## Proposta
