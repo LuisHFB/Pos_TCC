@@ -1,5 +1,7 @@
 # Driver para EXCOR
 
+![ExCOR by Berlin Heart](~/Imagens/EXCOR.png)
+
 ## Abstract
 Criar uma documentação para um driver open-source para propulsor cardiaco,visto a escassez de informações.
 Propor um hardware embarcado com redundancia e conectividade para possiveis ajustes de parametros e monitoramento externo do dispositivo.
@@ -26,6 +28,7 @@ Propor um hardware embarcado com redundancia e conectividade para possiveis ajus
     - Saida PWM para válvula proporcional 
     
 ### Princípio de funcionamento
+
 
 ### Controle
 
