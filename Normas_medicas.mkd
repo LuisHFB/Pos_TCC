@@ -1,0 +1,3 @@
+# Normas aplicáveis
+
+## NBR IEC 60601-1-11
