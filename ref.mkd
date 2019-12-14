@@ -3,10 +3,17 @@
 ## Abstract
 Criar um driver para propulsor cardiaco embarcado com redundancia e conectividade para possiveis ajustes de parametros e monitoramento externo do dispositivo.
 
+---
+
 ## [EXCOR Berlin hearth NA](www.berlinheart.com)
 
-## Driver
+## Função
 
+    - 3 Sistemas pneumáticos redundantes + Bomba manual
+    - 2 Notebook redundante para aquisição de dados e controle da unidade de acordo com o setup médico
+    - 2 Drivers redundantes autonomos em caso de falha da unidade de controle primária
+    - Bateria para operar fora da rede por até 2 horas
+    
 ### Sensores
 
 ### Atuadores
@@ -14,5 +21,7 @@ Criar um driver para propulsor cardiaco embarcado com redundancia e conectividad
 ### Princípio de funcionamento
 
 ### Controle
+
+---
 
 ## Proposta
