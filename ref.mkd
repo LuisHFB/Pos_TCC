@@ -1,6 +1,6 @@
 # Driver para EXCOR
 
-![ExCOR by Berlin Heart](/Imagens/EXCOR.png)
+![ExCOR by Berlin Heart](https://github.com/LuisHFB/Pos_TCC/blob/master/Imagens/EXCOR.PNG)
 
 ## Abstract
 Criar uma documentação para um driver open-source para propulsor cardiaco,visto a escassez de informações.
