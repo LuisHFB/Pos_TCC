@@ -1,11 +1,19 @@
 #+TITLE:: Cronograma TCC Pos
 #+DESCRIPTION:Agenda e lista de tarefas para serem feitas, junto com prazos etc 
 #+COLUMNS: %5TODO %25ITEM %1PRIORITY %6CLOCKSUM(Clock) %8Effort(Effort)(:) %TAGS
-#+PROPERTY: Effort_All 0:05 0:10 0:15 0:20 0:25 0:30 0:45 1:00 1:30 2:00 4:00 6:00 8:00
+#+PROPERTY: Effort_All 0:05 0:10 0:15 0:20 0:25 0:30 0:45 1:00 1:30 2:00 4:00 6:00 8:00 
 
-* Pesquisa Inicial
-
-** [#A] Normas Vigente[0/1]                                          :Normas:
+* TODO [#A] A FAZER [0/2][0%]                                    :Cronograma:
+  DEADLINE: <2020-02-02 dom>
+  :PROPERTIES:
+  :EFFORT:   8:00
+  :END:
+  - [ ] Cronograma inicial [/]
+    - [ ] 
+  - [ ] Introdução sobre a pesquisa [/]
+    - [ ] 
+* PROGRESS Pesquisa Inicial
+** [#B] Normas Vigente[0/1]                                          :Normas:
    :PROPERTIES:
    :EFFORT:   8:00
    :END:
@@ -15,17 +23,18 @@
 
 * TODO Hardware 
   Escolha do hardware que será usado no equipamento.
-  * Arduino
+*** Arduino
     + 5V
     + 
-  * ESP32
+*** ESP32
     + 3.3V
     + 
-  * FPGA
+*** FPGA
     + 
-* Hardware Atual
-  Hardware utilizado em aula atualmente
-  
+** Hardware Atual
+   Hardware utilizado em aula atualmente
+  - Trasndutor de pressão AMS
+  - 
 
 * TODO Software 
   Escolha do software de controle utilizado na interface e no controle.
