@@ -8,25 +8,26 @@
   :PROPERTIES:
   :EFFORT:   8:00
   :END:
-  - [ ] Cronograma inicial [0/6]
-    - [ ] Pesquisar normas relevantes
+** Cronograma inicial 
+*** Pesquisar normas relevantes [0/5]
+    SCHEDULED: <2020-01-20 seg>
     - [ ] Pesquisar Hardwares que atendem as normas
     - [ ] Desenvolver Hardware
     - [ ] Atualizar Software
     - [ ] Prototipagem
     - [ ] Artigo
-  - [ ] Introdução sobre a pesquisa 
-    - 
+*** Introdução sobre a pesquisa 
+    -
 * PROGRESS Pesquisa Inicial
-** [#B] Normas Vigente[0/1]                                          :Normas:
+** [#B] Normas Vigente[0/3]                                          :Normas:
    :PROPERTIES:
    :EFFORT:   8:00
    :END:
-   1. [ ] NBR IEC 60601-1-11 [0/2]
+   1. [ ] NBR IEC 60601-1-11 [0/1]
       - [ ] 
-      - [ ] 
+   2. [ ] 
+   3. [ ] 
 
-* TODO Hardware 
 * TODO Hardware                                                    :Hardware:
   
   Escolha do hardware que será usado no equipamento.
@@ -43,6 +44,5 @@
   - Trasndutor de pressão AMS
   - 
 
-* TODO Software 
 * TODO Software                                                   :Softaware:
   Escolha do software de controle utilizado na interface e no controle.
