@@ -9,9 +9,12 @@
   :EFFORT:   8:00
   :END:
 ** Cronograma inicial 
-*** Pesquisar normas relevantes [0/5]
+*** Pesquisar normas relevantes [1/5]
     SCHEDULED: <2020-01-20 seg>
-    - [ ] Pesquisar Hardwares que atendem as normas
+    - [X] Pesquisar Hardwares que atendem as normas
+      - [X] HeartWare HVAD
+      - [X] SynCardia Freedom
+      - [X] EXCOR IKUS
     - [ ] Desenvolver Hardware
     - [ ] Atualizar Software
     - [ ] Prototipagem
@@ -27,6 +30,20 @@
       - [ ] 
    2. [ ] 
    3. [ ] 
+** Hardwares Comerciais
+*** HeartWare HVAD
+    - Peso ?
+    - Bateria Litio (autonomia de 4~6h)
+    - Bomba centrifuga eletrônica
+    - Interface Reduzida
+    - Monitor Touch adicional para configurações do driver
+    - 
+*** SynCardia Freedom
+    - 6kg Aproximadamente
+    - Bateria de Litio c/ redundancia
+    - Sistema Pneumático integrado
+    - Interface reduzida
+
 
 * TODO Hardware                                                    :Hardware:
   
